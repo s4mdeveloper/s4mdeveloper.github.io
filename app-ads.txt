@@ -3,8 +3,6 @@
 appodeal.com, 128811, RESELLER
 #BidMachine
 bidmachine.io, 128811, RESELLER
-#AdMob
-google.com, pub-9856655945747731, DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
